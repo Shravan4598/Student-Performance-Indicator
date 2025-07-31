@@ -4,6 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A Machine Learning project to analyze and predict student performance based on various socio-demographic and academic features.
+![Demo](https://github.com/Shravan4598/Student-Performance-Indicator/blob/main/Adobe%20Express%20-%20Screen%20Recording%202025-07-31%20215931.gif)
+
 
 ## 🔗 GitHub Repository
 **URL**: [Student-Performance-Indicator](https://github.com/Shravan4598/Student-Performance-Indicator)
